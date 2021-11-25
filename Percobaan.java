@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//percobaan program 
+//percobaan program untuk tugas CT nomor 1 pertemuan 12
 public class Percobaan {
     public static void main(String[] args) {
         double keuntungan,banyakPekerja, pendapatanPot, potTerjual, pengeluaranPot;
